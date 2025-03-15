@@ -1,1 +1,1 @@
-Files for Intrduction to Data Analysis- A course offerec by edX in conjuction with Microsoft
+ Introduction to Data Analysis Lab files- A course offered by edX in conjuction with Microsoft
